@@ -3,10 +3,10 @@ CSARCH HDL Project 1
 
 (Introduction to Computer Organization and Architecture 1)
 
-<img src="Images/grif1.png" width="200px"></h1>
+<img src="Images/grif1.png"></h1>
 
 📝**About**:   
-   - iVerilog behavioral model HDL program using the function *F = (AB' + A'B)(C + D')*
+   - iVerilog behavioral model HDL program using the function: *F = (AB' + A'B)(C + D')*
 
 💻**To run**:
 
