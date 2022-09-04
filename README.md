@@ -13,3 +13,4 @@ CSARCH HDL Project 1
    - Install [iVerilog](https://bleyer.org/icarus/).
    - Run iverilog using the command: `iverilog grif1.v grif1_tb.v`
    - Run the generated vvp file using the command: `vvp a.out`
+   - Run the waveform file using the command: `gtkwave a. vcd`
