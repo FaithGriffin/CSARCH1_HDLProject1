@@ -10,4 +10,6 @@ CSARCH HDL Project 1
 
 💻**To run**:
 
-   - Install GNU Fortran compiler, compile, then run (linux-based OS dependent).
+   - Install [iVerilog](https://bleyer.org/icarus/).
+   - Run iverilog using the command: `iverilog grif1.v grif1_tb.v`
+   - Run the generated vvp file using the command: `vvp a.out`
